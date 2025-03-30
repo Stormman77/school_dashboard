@@ -9,6 +9,21 @@
   --color-lamaYellowLight: #FEFCE8;
 }
 
+.react-calendar{
+  width: 100% !important;
+  border: none !important;
+  font-family: "Inter", sans-serif !important;
+}
+
+.react-calendar__tile--active {
+  background-color: #C3EBFA !important;
+  color: black !important;
+}
+
+.react-calendar__navigation__label__labelText{
+  font-weight: 600;
+}
+
 /*:root {
   --background: #ffffff;
   --foreground: #171717;
